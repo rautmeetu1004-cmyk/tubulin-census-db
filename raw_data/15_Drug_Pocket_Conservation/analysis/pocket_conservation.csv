@@ -1,0 +1,6 @@
+pocket,location,n_contact,n_mapped,mean_ET,ET_percentile,mean_isotype_entropy,frac_buried,durability_score
+Pironetin,α,20,20,2.495,64,0.05,0.95,0.59
+Vinca,interdimer,24,24,2.522,64,0.078,0.38,0.562
+Taxane,β,19,19,2.291,58,0.137,0.79,0.443
+Colchicine,α/β,22,22,2.334,60,0.181,1.0,0.419
+Laulimalide,β ext.,14,14,2.664,66,0.319,0.64,0.341

@@ -1,0 +1,429 @@
+source,query_uniprot,query_gene,family,partner_symbol,partner_canonical,partner_id,score,score_num,passes_threshold,detection_method,interaction_type,pubmed
+STRING,O18688,tba-1,alpha,tbb-1,tbb-1,6239.K01G5.7.2,0.949,0.949,1,integrated(STRING),,
+STRING,O18688,tba-1,alpha,tbb-2,tbb-2,6239.C36E8.5.4,0.942,0.942,1,integrated(STRING),,
+STRING,O18688,tba-1,alpha,tbb-6,tbb-6,6239.T04H1.9.1,0.887,0.887,1,integrated(STRING),,
+STRING,O18688,tba-1,alpha,tbb-4,tbb-4,6239.B0272.1.1,0.882,0.882,1,integrated(STRING),,
+STRING,O18688,tba-1,alpha,ben-1,ben-1,6239.C54C6.2.1,0.882,0.882,1,integrated(STRING),,
+STRING,O18688,tba-1,alpha,mec-7,mec-7,6239.ZK154.3.1,0.877,0.877,1,integrated(STRING),,
+STRING,O18688,tba-1,alpha,dhc-1,dhc-1,6239.T21E12.4a.2,0.857,0.857,1,integrated(STRING),,
+STRING,O18688,tba-1,alpha,ebp-2,ebp-2,6239.VW02B12L.3.2,0.84,0.84,1,integrated(STRING),,
+STRING,O18688,tba-1,alpha,dyci-1,dyci-1,6239.C17H12.1.1,0.819,0.819,1,integrated(STRING),,
+STRING,O18688,tba-1,alpha,zyg-8,zyg-8,6239.Y79H2A.11a.1,0.81,0.81,1,integrated(STRING),,
+STRING,O18688,tba-1,alpha,pmp-3,pmp-3,6239.C54G10.3b.1,0.806,0.806,1,integrated(STRING),,
+STRING,O18688,tba-1,alpha,che-3,che-3,6239.F18C12.1.1,0.78,0.78,1,integrated(STRING),,
+STRING,O18688,tba-1,alpha,cdc-42,cdc-42,6239.R07G3.1.1,0.764,0.764,1,integrated(STRING),,
+STRING,O18688,tba-1,alpha,Y45F10D.4,Y45F10D.4,6239.Y45F10D.4.1,0.759,0.759,1,integrated(STRING),,
+STRING,O18688,tba-1,alpha,rbd-1,rbd-1,6239.T23F6.4a.2,0.742,0.742,1,integrated(STRING),,
+STRING,O18688,tba-1,alpha,csq-1,csq-1,6239.F40E10.3.1,0.736,0.736,1,integrated(STRING),,
+STRING,O18688,tba-1,alpha,tba-2,tba-2,6239.C47B2.3.3,0.715,0.715,1,integrated(STRING),,
+STRING,P34690,tba-2,alpha,tbb-2,tbb-2,6239.C36E8.5.4,0.996,0.996,1,integrated(STRING),,
+STRING,P34690,tba-2,alpha,tbb-1,tbb-1,6239.K01G5.7.2,0.96,0.96,1,integrated(STRING),,
+STRING,P34690,tba-2,alpha,tbb-4,tbb-4,6239.B0272.1.1,0.921,0.921,1,integrated(STRING),,
+STRING,P34690,tba-2,alpha,ben-1,ben-1,6239.C54C6.2.1,0.92,0.92,1,integrated(STRING),,
+STRING,P34690,tba-2,alpha,mec-7,mec-7,6239.ZK154.3.1,0.919,0.919,1,integrated(STRING),,
+STRING,P34690,tba-2,alpha,tbb-6,tbb-6,6239.T04H1.9.1,0.884,0.884,1,integrated(STRING),,
+STRING,P34690,tba-2,alpha,dyci-1,dyci-1,6239.C17H12.1.1,0.85,0.85,1,integrated(STRING),,
+STRING,P34690,tba-2,alpha,dhc-1,dhc-1,6239.T21E12.4a.2,0.829,0.829,1,integrated(STRING),,
+STRING,P34690,tba-2,alpha,zyg-8,zyg-8,6239.Y79H2A.11a.1,0.78,0.78,1,integrated(STRING),,
+STRING,P34690,tba-2,alpha,che-3,che-3,6239.F18C12.1.1,0.78,0.78,1,integrated(STRING),,
+STRING,P34690,tba-2,alpha,ebp-2,ebp-2,6239.VW02B12L.3.2,0.748,0.748,1,integrated(STRING),,
+STRING,P34690,tba-2,alpha,tba-1,tba-1,6239.F26E4.8b.1,0.715,0.715,1,integrated(STRING),,
+STRING,G5EDD4,tba-4,alpha,tbb-1,tbb-1,6239.K01G5.7.2,0.923,0.923,1,integrated(STRING),,
+STRING,G5EDD4,tba-4,alpha,tbb-4,tbb-4,6239.B0272.1.1,0.923,0.923,1,integrated(STRING),,
+STRING,G5EDD4,tba-4,alpha,ben-1,ben-1,6239.C54C6.2.1,0.921,0.921,1,integrated(STRING),,
+STRING,G5EDD4,tba-4,alpha,tbb-2,tbb-2,6239.C36E8.5.4,0.92,0.92,1,integrated(STRING),,
+STRING,G5EDD4,tba-4,alpha,mec-7,mec-7,6239.ZK154.3.1,0.918,0.918,1,integrated(STRING),,
+STRING,G5EDD4,tba-4,alpha,tbb-6,tbb-6,6239.T04H1.9.1,0.889,0.889,1,integrated(STRING),,
+STRING,G5EDD4,tba-4,alpha,zyg-8,zyg-8,6239.Y79H2A.11a.1,0.78,0.78,1,integrated(STRING),,
+STRING,G5EDD4,tba-4,alpha,che-3,che-3,6239.F18C12.1.1,0.78,0.78,1,integrated(STRING),,
+STRING,G5EDD4,tba-4,alpha,dhc-1,dhc-1,6239.T21E12.4a.2,0.78,0.78,1,integrated(STRING),,
+STRING,G5EDD4,tba-4,alpha,dyci-1,dyci-1,6239.C17H12.1.1,0.778,0.778,1,integrated(STRING),,
+STRING,Q19490,tba-5,alpha,tbb-6,tbb-6,6239.T04H1.9.1,0.888,0.888,1,integrated(STRING),,
+STRING,Q19490,tba-5,alpha,tbb-4,tbb-4,6239.B0272.1.1,0.883,0.883,1,integrated(STRING),,
+STRING,Q19490,tba-5,alpha,tbb-1,tbb-1,6239.K01G5.7.2,0.882,0.882,1,integrated(STRING),,
+STRING,Q19490,tba-5,alpha,ben-1,ben-1,6239.C54C6.2.1,0.881,0.881,1,integrated(STRING),,
+STRING,Q19490,tba-5,alpha,tbb-2,tbb-2,6239.C36E8.5.4,0.876,0.876,1,integrated(STRING),,
+STRING,Q19490,tba-5,alpha,mec-7,mec-7,6239.ZK154.3.1,0.872,0.872,1,integrated(STRING),,
+STRING,Q19490,tba-5,alpha,che-3,che-3,6239.F18C12.1.1,0.787,0.787,1,integrated(STRING),,
+STRING,Q19490,tba-5,alpha,dhc-1,dhc-1,6239.T21E12.4a.2,0.78,0.78,1,integrated(STRING),,
+STRING,Q19490,tba-5,alpha,zyg-8,zyg-8,6239.Y79H2A.11a.1,0.78,0.78,1,integrated(STRING),,
+STRING,Q19490,tba-5,alpha,dyci-1,dyci-1,6239.C17H12.1.1,0.778,0.778,1,integrated(STRING),,
+STRING,P91873,tba-6,alpha,tbb-4,tbb-4,6239.B0272.1.1,0.89,0.89,1,integrated(STRING),,
+STRING,P91873,tba-6,alpha,tbb-6,tbb-6,6239.T04H1.9.1,0.888,0.888,1,integrated(STRING),,
+STRING,P91873,tba-6,alpha,tbb-1,tbb-1,6239.K01G5.7.2,0.882,0.882,1,integrated(STRING),,
+STRING,P91873,tba-6,alpha,ben-1,ben-1,6239.C54C6.2.1,0.881,0.881,1,integrated(STRING),,
+STRING,P91873,tba-6,alpha,mec-7,mec-7,6239.ZK154.3.1,0.877,0.877,1,integrated(STRING),,
+STRING,P91873,tba-6,alpha,tbb-2,tbb-2,6239.C36E8.5.4,0.877,0.877,1,integrated(STRING),,
+STRING,P91873,tba-6,alpha,cil-7,cil-7,6239.W03G9.7.1,0.81,0.81,1,integrated(STRING),,
+STRING,P91873,tba-6,alpha,ttll-11,ttll-11,6239.H23L24.3b.1,0.804,0.804,1,integrated(STRING),,
+STRING,P91873,tba-6,alpha,che-3,che-3,6239.F18C12.1.1,0.787,0.787,1,integrated(STRING),,
+STRING,P91873,tba-6,alpha,zyg-8,zyg-8,6239.Y79H2A.11a.1,0.78,0.78,1,integrated(STRING),,
+STRING,P91873,tba-6,alpha,dhc-1,dhc-1,6239.T21E12.4a.2,0.78,0.78,1,integrated(STRING),,
+STRING,P91873,tba-6,alpha,dyci-1,dyci-1,6239.C17H12.1.1,0.778,0.778,1,integrated(STRING),,
+STRING,P91873,tba-6,alpha,ccpp-1,ccpp-1,6239.F56H1.5.1,0.766,0.766,1,integrated(STRING),,
+STRING,P91873,tba-6,alpha,klp-6,klp-6,6239.R144.1.1,0.766,0.766,1,integrated(STRING),,
+STRING,P91873,tba-6,alpha,klp-20,klp-20,6239.Y50D7A.6.3,0.727,0.727,1,integrated(STRING),,
+STRING,O18154,tba-7,alpha,ben-1,ben-1,6239.C54C6.2.1,0.923,0.923,1,integrated(STRING),,
+STRING,O18154,tba-7,alpha,tbb-4,tbb-4,6239.B0272.1.1,0.922,0.922,1,integrated(STRING),,
+STRING,O18154,tba-7,alpha,tbb-1,tbb-1,6239.K01G5.7.2,0.922,0.922,1,integrated(STRING),,
+STRING,O18154,tba-7,alpha,mec-7,mec-7,6239.ZK154.3.1,0.92,0.92,1,integrated(STRING),,
+STRING,O18154,tba-7,alpha,tbb-2,tbb-2,6239.C36E8.5.4,0.919,0.919,1,integrated(STRING),,
+STRING,O18154,tba-7,alpha,tbb-6,tbb-6,6239.T04H1.9.1,0.898,0.898,1,integrated(STRING),,
+STRING,O18154,tba-7,alpha,dhc-1,dhc-1,6239.T21E12.4a.2,0.783,0.783,1,integrated(STRING),,
+STRING,O18154,tba-7,alpha,che-3,che-3,6239.F18C12.1.1,0.78,0.78,1,integrated(STRING),,
+STRING,O18154,tba-7,alpha,zyg-8,zyg-8,6239.Y79H2A.11a.1,0.78,0.78,1,integrated(STRING),,
+STRING,O18154,tba-7,alpha,dyci-1,dyci-1,6239.C17H12.1.1,0.778,0.778,1,integrated(STRING),,
+STRING,P52274,tba-8,alpha,tbb-6,tbb-6,6239.T04H1.9.1,0.889,0.889,1,integrated(STRING),,
+STRING,P52274,tba-8,alpha,tbb-1,tbb-1,6239.K01G5.7.2,0.88,0.88,1,integrated(STRING),,
+STRING,P52274,tba-8,alpha,ben-1,ben-1,6239.C54C6.2.1,0.878,0.878,1,integrated(STRING),,
+STRING,P52274,tba-8,alpha,tbb-4,tbb-4,6239.B0272.1.1,0.877,0.877,1,integrated(STRING),,
+STRING,P52274,tba-8,alpha,mec-7,mec-7,6239.ZK154.3.1,0.876,0.876,1,integrated(STRING),,
+STRING,P52274,tba-8,alpha,tbb-2,tbb-2,6239.C36E8.5.4,0.876,0.876,1,integrated(STRING),,
+STRING,P52274,tba-8,alpha,dhc-1,dhc-1,6239.T21E12.4a.2,0.78,0.78,1,integrated(STRING),,
+STRING,P52274,tba-8,alpha,che-3,che-3,6239.F18C12.1.1,0.78,0.78,1,integrated(STRING),,
+STRING,P52274,tba-8,alpha,zyg-8,zyg-8,6239.Y79H2A.11a.1,0.78,0.78,1,integrated(STRING),,
+STRING,P52274,tba-8,alpha,dyci-1,dyci-1,6239.C17H12.1.1,0.778,0.778,1,integrated(STRING),,
+STRING,P52274,tba-8,alpha,T03G6.1,T03G6.1,6239.T03G6.1.1,0.722,0.722,1,integrated(STRING),,
+STRING,P52274,tba-8,alpha,R57.2,R57.2,6239.R57.2.1,0.718,0.718,1,integrated(STRING),,
+STRING,P52274,tba-8,alpha,F44E2.4,F44E2.4,6239.F44E2.4.1,0.71,0.71,1,integrated(STRING),,
+STRING,P52274,tba-8,alpha,M03A1.3,M03A1.3,6239.M03A1.3.1,0.709,0.709,1,integrated(STRING),,
+STRING,Q20221,tba-9,alpha,tbb-6,tbb-6,6239.T04H1.9.1,0.889,0.889,1,integrated(STRING),,
+STRING,Q20221,tba-9,alpha,tbb-4,tbb-4,6239.B0272.1.1,0.883,0.883,1,integrated(STRING),,
+STRING,Q20221,tba-9,alpha,tbb-1,tbb-1,6239.K01G5.7.2,0.882,0.882,1,integrated(STRING),,
+STRING,Q20221,tba-9,alpha,ben-1,ben-1,6239.C54C6.2.1,0.88,0.88,1,integrated(STRING),,
+STRING,Q20221,tba-9,alpha,mec-7,mec-7,6239.ZK154.3.1,0.878,0.878,1,integrated(STRING),,
+STRING,Q20221,tba-9,alpha,tbb-2,tbb-2,6239.C36E8.5.4,0.877,0.877,1,integrated(STRING),,
+STRING,Q20221,tba-9,alpha,che-3,che-3,6239.F18C12.1.1,0.814,0.814,1,integrated(STRING),,
+STRING,Q20221,tba-9,alpha,zyg-8,zyg-8,6239.Y79H2A.11a.1,0.78,0.78,1,integrated(STRING),,
+STRING,Q20221,tba-9,alpha,dhc-1,dhc-1,6239.T21E12.4a.2,0.78,0.78,1,integrated(STRING),,
+STRING,Q20221,tba-9,alpha,dyci-1,dyci-1,6239.C17H12.1.1,0.778,0.778,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,mec-7,mec-7,6239.ZK154.3.1,0.939,0.939,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,mec-17,mec-17,6239.F57H12.7a.1,0.938,0.938,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,tbb-4,tbb-4,6239.B0272.1.1,0.925,0.925,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,tbb-2,tbb-2,6239.C36E8.5.4,0.922,0.922,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,ben-1,ben-1,6239.C54C6.2.1,0.922,0.922,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,tbb-1,tbb-1,6239.K01G5.7.2,0.921,0.921,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,mec-5,mec-5,6239.E03G2.3.1,0.911,0.911,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,mec-2,mec-2,6239.F14D12.4e.1,0.908,0.908,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,mec-9,mec-9,6239.C50H2.3a.1,0.9,0.9,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,atat-2,atat-2,6239.W06B11.1.1,0.899,0.899,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,tbb-6,tbb-6,6239.T04H1.9.1,0.883,0.883,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,mec-6,mec-6,6239.W02D3.3.2,0.85,0.85,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,zyg-8,zyg-8,6239.Y79H2A.11a.1,0.826,0.826,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,mec-1,mec-1,6239.T07H8.4a.1,0.825,0.825,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,mec-10,mec-10,6239.F16F9.5.1,0.823,0.823,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,mec-18,mec-18,6239.C52B9.9.1,0.822,0.822,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,dhc-1,dhc-1,6239.T21E12.4a.2,0.813,0.813,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,mec-4,mec-4,6239.T01C8.7.2,0.812,0.812,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,che-3,che-3,6239.F18C12.1.1,0.787,0.787,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,dyci-1,dyci-1,6239.C17H12.1.1,0.778,0.778,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,mec-14,mec-14,6239.F37C12.12.1,0.772,0.772,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,elp-1,elp-1,6239.F38A6.2a.2,0.748,0.748,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,mec-15,mec-15,6239.T01E8.4.1,0.719,0.719,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,tbce-1,tbce-1,6239.K07H8.1.1,0.704,0.704,1,integrated(STRING),,
+STRING,P91910,mec-12,alpha,coel-1,coel-1,6239.C52B9.3a.1,0.702,0.702,1,integrated(STRING),,
+STRING,O17921,tbb-1,beta,tba-2,tba-2,6239.C47B2.3.3,0.96,0.96,1,integrated(STRING),,
+STRING,O17921,tbb-1,beta,tba-1,tba-1,6239.F26E4.8b.1,0.949,0.949,1,integrated(STRING),,
+STRING,O17921,tbb-1,beta,tba-4,tba-4,6239.F44F4.11.1,0.923,0.923,1,integrated(STRING),,
+STRING,O17921,tbb-1,beta,tba-7,tba-7,6239.T28D6.2.1,0.922,0.922,1,integrated(STRING),,
+STRING,O17921,tbb-1,beta,mec-12,mec-12,6239.C44B11.3.1,0.921,0.921,1,integrated(STRING),,
+STRING,O17921,tbb-1,beta,tba-9,tba-9,6239.F40F4.5.1,0.882,0.882,1,integrated(STRING),,
+STRING,O17921,tbb-1,beta,tba-6,tba-6,6239.F32H2.9.1,0.882,0.882,1,integrated(STRING),,
+STRING,O17921,tbb-1,beta,tba-5,tba-5,6239.F16D3.1.1,0.882,0.882,1,integrated(STRING),,
+STRING,O17921,tbb-1,beta,tba-8,tba-8,6239.ZK899.4.1,0.88,0.88,1,integrated(STRING),,
+STRING,O17921,tbb-1,beta,zyg-8,zyg-8,6239.Y79H2A.11a.1,0.861,0.861,1,integrated(STRING),,
+STRING,O17921,tbb-1,beta,dhc-1,dhc-1,6239.T21E12.4a.2,0.83,0.83,1,integrated(STRING),,
+STRING,O17921,tbb-1,beta,che-3,che-3,6239.F18C12.1.1,0.826,0.826,1,integrated(STRING),,
+STRING,O17921,tbb-1,beta,dyci-1,dyci-1,6239.C17H12.1.1,0.819,0.819,1,integrated(STRING),,
+STRING,O17921,tbb-1,beta,zyg-9,zyg-9,6239.F22B5.7.1,0.742,0.742,1,integrated(STRING),,
+STRING,O17921,tbb-1,beta,bmk-1,bmk-1,6239.F23B12.8b.1,0.736,0.736,1,integrated(STRING),,
+STRING,O17921,tbb-1,beta,eef-1G,eef-1G,6239.F17C11.9a.1,0.729,0.729,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,tba-2,tba-2,6239.C47B2.3.3,0.996,0.996,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,tba-1,tba-1,6239.F26E4.8b.1,0.942,0.942,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,mec-12,mec-12,6239.C44B11.3.1,0.922,0.922,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,tba-4,tba-4,6239.F44F4.11.1,0.92,0.92,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,tba-7,tba-7,6239.T28D6.2.1,0.919,0.919,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,dhc-1,dhc-1,6239.T21E12.4a.2,0.905,0.905,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,unc-119,unc-119,6239.M142.1c.1,0.894,0.894,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,zyg-8,zyg-8,6239.Y79H2A.11a.1,0.882,0.882,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,tba-9,tba-9,6239.F40F4.5.1,0.877,0.877,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,tba-6,tba-6,6239.F32H2.9.1,0.877,0.877,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,tba-8,tba-8,6239.ZK899.4.1,0.876,0.876,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,tba-5,tba-5,6239.F16D3.1.1,0.876,0.876,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,his-48,his-48,6239.B0035.8.1,0.871,0.871,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,his-58,his-58,6239.F54E12.4.1,0.871,0.871,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,che-3,che-3,6239.F18C12.1.1,0.826,0.826,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,mex-5,mex-5,6239.W02A2.7.1,0.82,0.82,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,pie-1,pie-1,6239.Y49E10.14a.1,0.82,0.82,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,dyci-1,dyci-1,6239.C17H12.1.1,0.82,0.82,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,zyg-9,zyg-9,6239.F22B5.7.1,0.791,0.791,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,bmk-1,bmk-1,6239.F23B12.8b.1,0.773,0.773,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,eef-1A.1,eef-1A.1,6239.F31E3.5.3,0.768,0.768,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,ebp-1,ebp-1,6239.Y59A8B.7.1,0.75,0.75,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,eef-1G,eef-1G,6239.F17C11.9a.1,0.744,0.744,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,unc-54,unc-54,6239.F11C3.3.2,0.741,0.741,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,peel-1,peel-1,6239.Y39G10AR.25.1,0.741,0.741,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,his-44,his-44,6239.F08G2.1.1,0.733,0.733,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,his-11,his-11,6239.ZK131.5.1,0.732,0.732,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,mei-1,mei-1,6239.T01G9.5b.1,0.721,0.721,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,dpy-10,dpy-10,6239.T14B4.7.1,0.708,0.708,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,rol-6,rol-6,6239.T01B7.7.2,0.707,0.707,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,ebp-2,ebp-2,6239.VW02B12L.3.2,0.707,0.707,1,integrated(STRING),,
+STRING,P52275,tbb-2,beta,mdf-2,mdf-2,6239.Y69A2AR.30a.3,0.705,0.705,1,integrated(STRING),,
+STRING,P41937,tbb-4,beta,mec-12,mec-12,6239.C44B11.3.1,0.925,0.925,1,integrated(STRING),,
+STRING,P41937,tbb-4,beta,tba-4,tba-4,6239.F44F4.11.1,0.923,0.923,1,integrated(STRING),,
+STRING,P41937,tbb-4,beta,tba-7,tba-7,6239.T28D6.2.1,0.922,0.922,1,integrated(STRING),,
+STRING,P41937,tbb-4,beta,tba-2,tba-2,6239.C47B2.3.3,0.921,0.921,1,integrated(STRING),,
+STRING,P41937,tbb-4,beta,tba-6,tba-6,6239.F32H2.9.1,0.89,0.89,1,integrated(STRING),,
+STRING,P41937,tbb-4,beta,tba-5,tba-5,6239.F16D3.1.1,0.883,0.883,1,integrated(STRING),,
+STRING,P41937,tbb-4,beta,tba-9,tba-9,6239.F40F4.5.1,0.883,0.883,1,integrated(STRING),,
+STRING,P41937,tbb-4,beta,tba-1,tba-1,6239.F26E4.8b.1,0.882,0.882,1,integrated(STRING),,
+STRING,P41937,tbb-4,beta,tba-8,tba-8,6239.ZK899.4.1,0.877,0.877,1,integrated(STRING),,
+STRING,P41937,tbb-4,beta,zyg-8,zyg-8,6239.Y79H2A.11a.1,0.861,0.861,1,integrated(STRING),,
+STRING,P41937,tbb-4,beta,che-3,che-3,6239.F18C12.1.1,0.835,0.835,1,integrated(STRING),,
+STRING,P41937,tbb-4,beta,dhc-1,dhc-1,6239.T21E12.4a.2,0.826,0.826,1,integrated(STRING),,
+STRING,P41937,tbb-4,beta,dyci-1,dyci-1,6239.C17H12.1.1,0.819,0.819,1,integrated(STRING),,
+STRING,P41937,tbb-4,beta,cct-1,cct-1,6239.T05C12.7.1,0.772,0.772,1,integrated(STRING),,
+STRING,P41937,tbb-4,beta,osm-3,osm-3,6239.M02B7.3b.1,0.741,0.741,1,integrated(STRING),,
+STRING,P41937,tbb-4,beta,osm-6,osm-6,6239.R31.3.1,0.738,0.738,1,integrated(STRING),,
+STRING,P41937,tbb-4,beta,klp-6,klp-6,6239.R144.1.1,0.735,0.735,1,integrated(STRING),,
+STRING,P41937,tbb-4,beta,bmk-1,bmk-1,6239.F23B12.8b.1,0.714,0.714,1,integrated(STRING),,
+STRING,P41937,tbb-4,beta,eef-1G,eef-1G,6239.F17C11.9a.1,0.71,0.71,1,integrated(STRING),,
+STRING,G5EF01,tbb-6,beta,tba-7,tba-7,6239.T28D6.2.1,0.898,0.898,1,integrated(STRING),,
+STRING,G5EF01,tbb-6,beta,tba-9,tba-9,6239.F40F4.5.1,0.889,0.889,1,integrated(STRING),,
+STRING,G5EF01,tbb-6,beta,tba-4,tba-4,6239.F44F4.11.1,0.889,0.889,1,integrated(STRING),,
+STRING,G5EF01,tbb-6,beta,tba-8,tba-8,6239.ZK899.4.1,0.889,0.889,1,integrated(STRING),,
+STRING,G5EF01,tbb-6,beta,tba-6,tba-6,6239.F32H2.9.1,0.888,0.888,1,integrated(STRING),,
+STRING,G5EF01,tbb-6,beta,tba-5,tba-5,6239.F16D3.1.1,0.888,0.888,1,integrated(STRING),,
+STRING,G5EF01,tbb-6,beta,tba-1,tba-1,6239.F26E4.8b.1,0.887,0.887,1,integrated(STRING),,
+STRING,G5EF01,tbb-6,beta,tba-2,tba-2,6239.C47B2.3.3,0.884,0.884,1,integrated(STRING),,
+STRING,G5EF01,tbb-6,beta,mec-12,mec-12,6239.C44B11.3.1,0.883,0.883,1,integrated(STRING),,
+STRING,G5EF01,tbb-6,beta,zyg-8,zyg-8,6239.Y79H2A.11a.1,0.861,0.861,1,integrated(STRING),,
+STRING,G5EF01,tbb-6,beta,dhc-1,dhc-1,6239.T21E12.4a.2,0.828,0.828,1,integrated(STRING),,
+STRING,G5EF01,tbb-6,beta,che-3,che-3,6239.F18C12.1.1,0.826,0.826,1,integrated(STRING),,
+STRING,G5EF01,tbb-6,beta,dyci-1,dyci-1,6239.C17H12.1.1,0.819,0.819,1,integrated(STRING),,
+STRING,G5EF01,tbb-6,beta,bmk-1,bmk-1,6239.F23B12.8b.1,0.714,0.714,1,integrated(STRING),,
+STRING,G5EF01,tbb-6,beta,eef-1G,eef-1G,6239.F17C11.9a.1,0.71,0.71,1,integrated(STRING),,
+STRING,G5EF01,tbb-6,beta,Y37H9A.3,Y37H9A.3,6239.Y37H9A.3.1,0.704,0.704,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,mec-12,mec-12,6239.C44B11.3.1,0.939,0.939,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,mec-4,mec-4,6239.T01C8.7.2,0.927,0.927,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,tba-7,tba-7,6239.T28D6.2.1,0.92,0.92,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,tba-2,tba-2,6239.C47B2.3.3,0.919,0.919,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,tba-4,tba-4,6239.F44F4.11.1,0.918,0.918,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,zyg-8,zyg-8,6239.Y79H2A.11a.1,0.905,0.905,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,mec-10,mec-10,6239.F16F9.5.1,0.884,0.884,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,tba-9,tba-9,6239.F40F4.5.1,0.878,0.878,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,tba-1,tba-1,6239.F26E4.8b.1,0.877,0.877,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,tba-6,tba-6,6239.F32H2.9.1,0.877,0.877,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,tba-8,tba-8,6239.ZK899.4.1,0.876,0.876,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,mec-5,mec-5,6239.E03G2.3.1,0.875,0.875,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,tba-5,tba-5,6239.F16D3.1.1,0.872,0.872,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,mec-2,mec-2,6239.F14D12.4e.1,0.857,0.857,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,che-3,che-3,6239.F18C12.1.1,0.83,0.83,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,mec-17,mec-17,6239.F57H12.7a.1,0.829,0.829,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,dhc-1,dhc-1,6239.T21E12.4a.2,0.826,0.826,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,mec-9,mec-9,6239.C50H2.3a.1,0.821,0.821,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,mec-18,mec-18,6239.C52B9.9.1,0.82,0.82,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,dyci-1,dyci-1,6239.C17H12.1.1,0.819,0.819,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,mec-6,mec-6,6239.W02D3.3.2,0.81,0.81,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,mec-3,mec-3,6239.F01D4.6a.1,0.81,0.81,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,ptl-1,ptl-1,6239.F42G9.9b.1,0.794,0.794,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,mec-1,mec-1,6239.T07H8.4a.1,0.766,0.766,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,atat-2,atat-2,6239.W06B11.1.1,0.76,0.76,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,dli-1,dli-1,6239.C39E9.14a.2,0.755,0.755,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,unc-86,unc-86,6239.C30A5.7b.1,0.725,0.725,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,bmk-1,bmk-1,6239.F23B12.8b.1,0.724,0.724,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,eef-1G,eef-1G,6239.F17C11.9a.1,0.715,0.715,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,hda-2,hda-2,6239.C08B11.2.1,0.709,0.709,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,ebp-2,ebp-2,6239.VW02B12L.3.2,0.709,0.709,1,integrated(STRING),,
+STRING,P12456,mec-7,beta,mec-15,mec-15,6239.T01E8.4.1,0.702,0.702,1,integrated(STRING),,
+STRING,Q18817,ben-1,beta,tba-7,tba-7,6239.T28D6.2.1,0.923,0.923,1,integrated(STRING),,
+STRING,Q18817,ben-1,beta,mec-12,mec-12,6239.C44B11.3.1,0.922,0.922,1,integrated(STRING),,
+STRING,Q18817,ben-1,beta,tba-4,tba-4,6239.F44F4.11.1,0.921,0.921,1,integrated(STRING),,
+STRING,Q18817,ben-1,beta,tba-2,tba-2,6239.C47B2.3.3,0.92,0.92,1,integrated(STRING),,
+STRING,Q18817,ben-1,beta,tba-1,tba-1,6239.F26E4.8b.1,0.882,0.882,1,integrated(STRING),,
+STRING,Q18817,ben-1,beta,tba-5,tba-5,6239.F16D3.1.1,0.881,0.881,1,integrated(STRING),,
+STRING,Q18817,ben-1,beta,tba-6,tba-6,6239.F32H2.9.1,0.881,0.881,1,integrated(STRING),,
+STRING,Q18817,ben-1,beta,tba-9,tba-9,6239.F40F4.5.1,0.88,0.88,1,integrated(STRING),,
+STRING,Q18817,ben-1,beta,tba-8,tba-8,6239.ZK899.4.1,0.878,0.878,1,integrated(STRING),,
+STRING,Q18817,ben-1,beta,zyg-8,zyg-8,6239.Y79H2A.11a.1,0.861,0.861,1,integrated(STRING),,
+STRING,Q18817,ben-1,beta,che-3,che-3,6239.F18C12.1.1,0.829,0.829,1,integrated(STRING),,
+STRING,Q18817,ben-1,beta,dhc-1,dhc-1,6239.T21E12.4a.2,0.827,0.827,1,integrated(STRING),,
+STRING,Q18817,ben-1,beta,dyci-1,dyci-1,6239.C17H12.1.1,0.819,0.819,1,integrated(STRING),,
+STRING,Q18817,ben-1,beta,avr-14,avr-14,6239.B0207.12b.1,0.81,0.81,1,integrated(STRING),,
+STRING,Q18817,ben-1,beta,avr-15,avr-15,6239.R11G10.1a.1,0.807,0.807,1,integrated(STRING),,
+STRING,Q18817,ben-1,beta,glc-2,glc-2,6239.F25F8.2.1,0.758,0.758,1,integrated(STRING),,
+STRING,Q18817,ben-1,beta,glc-1,glc-1,6239.F11A5.10.2,0.741,0.741,1,integrated(STRING),,
+STRING,Q18817,ben-1,beta,bmk-1,bmk-1,6239.F23B12.8b.1,0.723,0.723,1,integrated(STRING),,
+STRING,Q18817,ben-1,beta,eef-1G,eef-1G,6239.F17C11.9a.1,0.711,0.711,1,integrated(STRING),,
+STRING,Q18817,ben-1,beta,F32D8.14,F32D8.14,6239.F32D8.14a.1,0.704,0.704,1,integrated(STRING),,
+STRING,Q18817,ben-1,beta,F32D8.4,F32D8.4,6239.F32D8.4.1,0.704,0.704,1,integrated(STRING),,
+STRING,Q18817,ben-1,beta,F32D8.12,F32D8.12,6239.F32D8.12a.2,0.704,0.704,1,integrated(STRING),,
+IntAct/IntAct,O18688,tba-1,alpha,dnj-2,dnj-2,Q17433,"[""intact-miscore:0.37"", ""author score(NON_CORE)""]",0.37,0,two hybrid pooling,physical association,14704431
+IntAct/IntAct,O18688,tba-1,alpha,ran-1,ran-1,O17915,"[""intact-miscore:0.37"", ""author score(CORE_2)""]",0.37,0,two hybrid pooling,physical association,14704431
+IntAct/IntAct,P34690,tba-2,alpha,uso-1,uso-1,G5EGG0,"[""intact-miscore:0.37"", ""author score(NON_CORE)""]",0.37,0,two hybrid pooling,physical association,14704431
+IntAct/IntAct,P34690,tba-2,alpha,dlg-1,dlg-1,G5ECY0,"[""intact-miscore:0.37"", ""author score(1)""]",0.37,0,two hybrid pooling,physical association,21110867
+IntAct/IntAct,O17921,tbb-1,beta,lit-1,lit-1,Q9U9Y8,"[""intact-miscore:0.37"", ""author score(CORE_2)""]",0.37,0,two hybrid pooling,physical association,14704431
+IntAct/IntAct,P52275,tbb-2,beta,tbg-1,tbg-1,P34475,"[""intact-miscore:0.37"", ""author score(NON_CORE)""]",0.37,0,two hybrid pooling,physical association,14704431
+IntAct/IntAct,P52275,tbb-2,beta,pdr-1,pdr-1,Q9XUS3,"[""intact-miscore:0.37"", ""author score(NON_CORE)""]",0.37,0,two hybrid pooling,physical association,14704431
+IntAct/IntAct,P41937,tbb-4,beta,dcr-1,dcr-1,P34529,"[""intact-miscore:0.35""]",0.35,0,anti bait coip,association,16439208
+IntAct/IntAct,G5EF01,tbb-6,beta,comt-3,comt-3,Q965W3,"[""intact-miscore:0.49""]",0.49,0,two hybrid pooling,physical association,19123269
+IntAct/IntAct,G5EF01,tbb-6,beta,comt-3,comt-3,Q965W3,"[""intact-miscore:0.49""]",0.49,0,two hybrid array,physical association,19123269
+HINT/binary_hq,P34690,tba-2,alpha,CELE_M05D6.2,CELE_M05D6.2,G5ECL1,,,1,18692475:0018:HT:binary,,
+HINT/binary_hq,P34690,tba-2,alpha,dlg-1,dlg-1,G5ECY0,,,1,21110867:0018:HT:binary|21110867:0398:HT:binary,,
+HINT/binary_hq,G5EDD4,tba-4,alpha,uso-1,uso-1,G5EGG0,,,1,14704431:0018:HT:binary,,
+HINT/binary_hq,G5EF01,tbb-6,beta,comt-3,comt-3,Q965W3,,,1,19123269:0018:HT:binary|19123269:0397:HT:binary|19123269:0398:HT:binary,,
+HINT/binary_hq,P34690,tba-2,alpha,uso-1,uso-1,G5EGG0,,,1,14704431:0398:HT:binary,,
+HINT/binary_hq,O18688,tba-1,alpha,ran-1,ran-1,O17915,,,1,14704431:0018:HT:binary|14704431:0398:HT:binary,,
+HINT/binary_hq,O17921,tbb-1,beta,lmn-1,lmn-1,Q21443,,,1,18692475:0018:HT:binary,,
+HINT/binary_hq,O17921,tbb-1,beta,lit-1,lit-1,Q9U9Y8,,,1,14704431:0018:HT:binary|14704431:0398:HT:binary,,
+HINT/binary_hq,O18688,tba-1,alpha,dnj-2,dnj-2,Q17433,,,1,14704431:0018:HT:binary|14704431:0398:HT:binary,,
+HINT/binary_hq,P52275,tbb-2,beta,tbg-1,tbg-1,P34475,,,1,14704431:0018:HT:binary|14704431:0398:HT:binary,,
+HINT/binary_hq,P34690,tba-2,alpha,tbb-2,tbb-2,P52275,,,1,30245157:0114:LC:binary,,
+HINT/binary_hq,P41937,tbb-4,beta,CELE_T11B7.1,CELE_T11B7.1,Q22387,,,1,19123269:0018:HT:binary|19123269:0397:HT:binary|19123269:0398:HT:binary,,
+HINT/binary_hq,P52275,tbb-2,beta,pdr-1,pdr-1,Q9XUS3,,,1,14704431:0007:HT:binary|14704431:0018:HT:binary|14704431:0398:HT:binary,,
+HINT/binary_hq,Q18817,ben-1,beta,spk-1,spk-1,Q03563,,,1,18692475:0018:HT:binary,,
+HINT/binary_hq,Q18817,ben-1,beta,pas-2,pas-2,Q27488,,,1,18692475:0018:HT:binary,,
+HINT/binary_hq,Q18817,ben-1,beta,nsf-1,nsf-1,Q94392,,,1,18692475:0018:HT:binary,,
+BioGRID,O18688,tba-1,alpha,dnj-2,dnj-2,,,,1,Two-hybrid,,PUBMED:14704431
+BioGRID,P52275,tbb-2,beta,tbg-1,tbg-1,,,,1,Two-hybrid,,PUBMED:14704431
+BioGRID,O18688,tba-1,alpha,ran-1,ran-1,,,,1,Two-hybrid,,PUBMED:14704431
+BioGRID,P52275,tbb-2,beta,pdr-1,pdr-1,,,,1,Two-hybrid,,PUBMED:14704431
+BioGRID,G5EDD4,tba-4,alpha,uso-1,uso-1,,,,1,Two-hybrid,,PUBMED:14704431
+BioGRID,P34690,tba-2,alpha,M05D6.2,M05D6.2,,,,1,Two-hybrid,,PUBMED:18692475
+BioGRID,G5EDD4,tba-4,alpha,tbb-1,tbb-1,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,G5EDD4,tba-4,alpha,tba-7,tba-7,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P41937,tbb-4,beta,cct-1,cct-1,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,O17921,tbb-1,beta,her-1,her-1,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,G5EDD4,tba-4,alpha,rpl-16,rpl-16,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,O18154,tba-7,alpha,rpl-16,rpl-16,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P34690,tba-2,alpha,imb-3,imb-3,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P34690,tba-2,alpha,rpl-16,rpl-16,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,G5EDD4,tba-4,alpha,mec-12,mec-12,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,G5EDD4,tba-4,alpha,T20H4.5,T20H4.5,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,G5EDD4,tba-4,alpha,lgg-1,lgg-1,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P41937,tbb-4,beta,lgg-1,lgg-1,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P91910,mec-12,alpha,tbce-1,tbce-1,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,O17921,tbb-1,beta,ama-1,ama-1,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,G5EDD4,tba-4,alpha,tbb-2,tbb-2,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,G5EDD4,tba-4,alpha,ben-1,ben-1,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,G5EDD4,tba-4,alpha,mec-7,mec-7,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P34690,tba-2,alpha,puf-12,puf-12,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P12456,mec-7,beta,mec-12,mec-12,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P34690,tba-2,alpha,tbb-4,tbb-4,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P34690,tba-2,alpha,psf-1,psf-1,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P91910,mec-12,alpha,ben-1,ben-1,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,Q18817,ben-1,beta,act-2,act-2,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,O18154,tba-7,alpha,prp-17,prp-17,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,O18154,tba-7,alpha,ben-1,ben-1,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,G5EF01,tbb-6,beta,ufm-1,ufm-1,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P91910,mec-12,alpha,prp-17,prp-17,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,G5EDD4,tba-4,alpha,D1007.19,D1007.19,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P91910,mec-12,alpha,tag-151,tag-151,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P91910,mec-12,alpha,cri-3,cri-3,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P34690,tba-2,alpha,lgg-1,lgg-1,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,O18154,tba-7,alpha,mec-12,mec-12,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P52275,tbb-2,beta,mec-12,mec-12,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P34690,tba-2,alpha,rpb-12,rpb-12,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,O17921,tbb-1,beta,tba-7,tba-7,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P41937,tbb-4,beta,mec-12,mec-12,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P91910,mec-12,alpha,rpl-16,rpl-16,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,G5EDD4,tba-4,alpha,tba-2,tba-2,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,G5EDD4,tba-4,alpha,tbb-4,tbb-4,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,O18154,tba-7,alpha,mec-7,mec-7,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,G5EDD4,tba-4,alpha,prp-17,prp-17,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P91910,mec-12,alpha,tbcb-1,tbcb-1,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P34690,tba-2,alpha,R02F2.7,R02F2.7,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P52275,tbb-2,beta,ebp-1,ebp-1,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P34690,tba-2,alpha,K03B8.6,K03B8.6,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,O18154,tba-7,alpha,tbb-2,tbb-2,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P91910,mec-12,alpha,Y39B6A.18,Y39B6A.18,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P34690,tba-2,alpha,glb-12,glb-12,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P34690,tba-2,alpha,ebp-1,ebp-1,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P34690,tba-2,alpha,ben-1,ben-1,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,O17921,tbb-1,beta,tba-2,tba-2,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P12456,mec-7,beta,act-2,act-2,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,O18154,tba-7,alpha,tbce-1,tbce-1,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P52275,tbb-2,beta,act-2,act-2,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P34690,tba-2,alpha,mec-12,mec-12,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P34690,tba-2,alpha,prp-17,prp-17,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,G5EDD4,tba-4,alpha,cct-1,cct-1,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P91910,mec-12,alpha,prmt-1,prmt-1,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,O18154,tba-7,alpha,tbb-4,tbb-4,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,G5EDD4,tba-4,alpha,ebp-1,ebp-1,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,O18154,tba-7,alpha,rpb-12,rpb-12,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P34690,tba-2,alpha,tbce-1,tbce-1,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,G5EDD4,tba-4,alpha,puf-12,puf-12,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,O17921,tbb-1,beta,mec-12,mec-12,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P52275,tbb-2,beta,ugt-49,ugt-49,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P12456,mec-7,beta,tba-2,tba-2,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,G5EDD4,tba-4,alpha,tbce-1,tbce-1,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,O17921,tbb-1,beta,act-2,act-2,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P34690,tba-2,alpha,tbb-2,tbb-2,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P34690,tba-2,alpha,F38A1.8,F38A1.8,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,G5EDD4,tba-4,alpha,rpb-12,rpb-12,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,O18154,tba-7,alpha,tba-2,tba-2,,,,1,Co-fractionation,,PUBMED:31308550
+BioGRID,P41937,tbb-4,beta,T11B7.1,T11B7.1,,,,1,Two-hybrid,,PUBMED:19123269
+BioGRID,G5EF01,tbb-6,beta,comt-3,comt-3,,,,1,Two-hybrid,,PUBMED:19123269
+BioGRID,P52275,tbb-2,beta,ced-3,ced-3,,,,1,Biochemical Activity,,PUBMED:17371877
+BioGRID,P34690,tba-2,alpha,ced-3,ced-3,,,,1,Biochemical Activity,,PUBMED:17371877
+BioGRID,P91910,mec-12,alpha,mec-17,mec-17,,,,1,Biochemical Activity,,PUBMED:20829795
+BioGRID,P91910,mec-12,alpha,atat-2,atat-2,,,,1,Biochemical Activity,,PUBMED:20829795
+BioGRID,P41937,tbb-4,beta,dcr-1,dcr-1,,,,1,Affinity Capture-MS,,PUBMED:16439208
+BioGRID,P52275,tbb-2,beta,ced-3,ced-3,,,,1,Affinity Capture-MS,,PUBMED:22918439
+BioGRID,P34690,tba-2,alpha,ced-3,ced-3,,,,1,Affinity Capture-MS,,PUBMED:22918439
+BioGRID,P34690,tba-2,alpha,tbb-2,tbb-2,,,,1,Affinity Capture-MS,,PUBMED:30245157
+BioGRID,G5EDD4,tba-4,alpha,elt-2,elt-2,,,,1,Affinity Capture-MS,,PUBMED:30265660
+BioGRID,O17921,tbb-1,beta,gck-1,gck-1,,,,1,Affinity Capture-MS,,PUBMED:28285997
+BioGRID,O18688,tba-1,alpha,gck-1,gck-1,,,,1,Affinity Capture-MS,,PUBMED:28285997
+BioGRID,P52275,tbb-2,beta,gck-1,gck-1,,,,1,Affinity Capture-MS,,PUBMED:28285997
+BioGRID,P52274,tba-8,alpha,C30F12.4,C30F12.4,,,,1,Affinity Capture-MS,,PUBMED:27638466
+BioGRID,P52275,tbb-2,beta,dyn-1,dyn-1,,,,1,Affinity Capture-MS,,PUBMED:31242766
+BioGRID,O17921,tbb-1,beta,dyn-1,dyn-1,,,,1,Affinity Capture-MS,,PUBMED:31242766
+BioGRID,P41937,tbb-4,beta,dyn-1,dyn-1,,,,1,Affinity Capture-MS,,PUBMED:31242766
+BioGRID,G5EDD4,tba-4,alpha,dep-1,dep-1,,,,1,Affinity Capture-MS,,PUBMED:28135265
+BioGRID,P52275,tbb-2,beta,ulp-3,ulp-3,,,,1,Affinity Capture-MS,,PUBMED:31577950
+BioGRID,P52275,tbb-2,beta,ned-8,ned-8,,,,1,Affinity Capture-MS,,PUBMED:31577950
+BioGRID,Q18817,ben-1,beta,lin-53,lin-53,,,,1,Affinity Capture-MS,,PUBMED:31397537
+BioGRID,P12456,mec-7,beta,lin-53,lin-53,,,,1,Affinity Capture-MS,,PUBMED:31397537
+BioGRID,P52275,tbb-2,beta,lin-53,lin-53,,,,1,Affinity Capture-MS,,PUBMED:31397537
+BioGRID,O18688,tba-1,alpha,lin-53,lin-53,,,,1,Affinity Capture-MS,,PUBMED:31397537
+BioGRID,O17921,tbb-1,beta,lin-53,lin-53,,,,1,Affinity Capture-MS,,PUBMED:31397537
+BioGRID,G5EDD4,tba-4,alpha,lin-53,lin-53,,,,1,Affinity Capture-MS,,PUBMED:31397537
+BioGRID,P91910,mec-12,alpha,lin-53,lin-53,,,,1,Affinity Capture-MS,,PUBMED:31397537
+BioGRID,O18154,tba-7,alpha,lin-53,lin-53,,,,1,Affinity Capture-MS,,PUBMED:31397537
+BioGRID,P52275,tbb-2,beta,zen-4,zen-4,,,,1,Affinity Capture-MS,,PUBMED:26912668
+BioGRID,O17921,tbb-1,beta,hmg-4,hmg-4,,,,1,Affinity Capture-MS,,PUBMED:30078731
+BioGRID,G5EDD4,tba-4,alpha,elks-1,elks-1,,,,1,Proximity Label-MS,,PUBMED:34416233
+BioGRID,P12456,mec-7,beta,elks-1,elks-1,,,,1,Proximity Label-MS,,PUBMED:34416233
+BioGRID,O18688,tba-1,alpha,elks-1,elks-1,,,,1,Proximity Label-MS,,PUBMED:34416233
+BioGRID,P34690,tba-2,alpha,elks-1,elks-1,,,,1,Proximity Label-MS,,PUBMED:34416233
+BioGRID,O18154,tba-7,alpha,elks-1,elks-1,,,,1,Proximity Label-MS,,PUBMED:34416233
+BioGRID,O17921,tbb-1,beta,elks-1,elks-1,,,,1,Proximity Label-MS,,PUBMED:34416233
+BioGRID,P52275,tbb-2,beta,elks-1,elks-1,,,,1,Proximity Label-MS,,PUBMED:34416233
+BioGRID,G5EF01,tbb-6,beta,elks-1,elks-1,,,,1,Proximity Label-MS,,PUBMED:34416233
+BioGRID,O18154,tba-7,alpha,meg-3,meg-3,,,,1,Affinity Capture-MS,,PUBMED:34223818
+BioGRID,O18688,tba-1,alpha,meg-3,meg-3,,,,1,Affinity Capture-MS,,PUBMED:34223818
+BioGRID,P34690,tba-2,alpha,meg-3,meg-3,,,,1,Affinity Capture-MS,,PUBMED:34223818
+BioGRID,Q18817,ben-1,beta,meg-3,meg-3,,,,1,Affinity Capture-MS,,PUBMED:34223818
+BioGRID,P12456,mec-7,beta,meg-3,meg-3,,,,1,Affinity Capture-MS,,PUBMED:34223818
+BioGRID,P41937,tbb-4,beta,meg-3,meg-3,,,,1,Affinity Capture-MS,,PUBMED:34223818
+BioGRID,O17921,tbb-1,beta,meg-3,meg-3,,,,1,Affinity Capture-MS,,PUBMED:34223818
+BioGRID,P52275,tbb-2,beta,meg-3,meg-3,,,,1,Affinity Capture-MS,,PUBMED:34223818
+BioGRID,Q18817,ben-1,beta,nrx-1,nrx-1,,,,1,Proximity Label-MS,,PUBMED:38252619
+BioGRID,O18688,tba-1,alpha,plk-1,plk-1,,,,1,Proximity Label-MS,,PUBMED:35442950
+BioGRID,P34690,tba-2,alpha,plk-1,plk-1,,,,1,Proximity Label-MS,,PUBMED:35442950
+BioGRID,P52275,tbb-2,beta,plk-1,plk-1,,,,1,Proximity Label-MS,,PUBMED:35442950
+BioGRID,O17921,tbb-1,beta,plk-1,plk-1,,,,1,Proximity Label-MS,,PUBMED:35442950
+BioGRID,P52275,tbb-2,beta,elks-1,elks-1,,,,1,Proximity Label-MS,,PUBMED:35933017
+BioGRID,P52275,tbb-2,beta,ung-1,ung-1,,,,1,Reconstituted Complex,,PUBMED:35809390
+BioGRID,O18688,tba-1,alpha,lst-3,lst-3,,,,1,Affinity Capture-MS,,PUBMED:38126797
+BioGRID,P34690,tba-2,alpha,lst-3,lst-3,,,,1,Affinity Capture-MS,,PUBMED:38126797
+BioGRID,P52275,tbb-2,beta,lst-3,lst-3,,,,1,Affinity Capture-MS,,PUBMED:38126797
+BioGRID,P52275,tbb-2,beta,tiar-1,tiar-1,,,,1,Affinity Capture-RNA,,PUBMED:31527589
+BioGRID,P34690,tba-2,alpha,dlg-1,dlg-1,,,,1,Two-hybrid,,PUBMED:21110867
+BioGRID,P34690,tba-2,alpha,arid-1,arid-1,,,,1,Affinity Capture-MS,,PUBMED:37818613
+BioGRID,O18688,tba-1,alpha,arid-1,arid-1,,,,1,Affinity Capture-MS,,PUBMED:37818613
+BioGRID,P34690,tba-2,alpha,mafr-1,mafr-1,,,,1,Two-hybrid,,PUBMED:33168938
+BioGRID,G5EDD4,tba-4,alpha,daf-21,daf-21,,,,1,Affinity Capture-MS,,PUBMED:38753516
+BioGRID,P91873,tba-6,alpha,daf-21,daf-21,,,,1,Affinity Capture-MS,,PUBMED:38753516

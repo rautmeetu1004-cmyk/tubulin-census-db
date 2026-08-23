@@ -1,0 +1,157 @@
+gene,n_domains,domains
+APC,1,APC_basic
+APC2,1,APC_basic
+CAMSAP1,1,CAMSAP_CKK
+CAMSAP2,1,CAMSAP_CKK
+CAMSAP3,1,CAMSAP_CKK
+CCDC87,1,MAP65/ASE1 (MAP)
+CENPE,1,Kinesin motor domain
+CEP350,1,CAP-Gly domain
+CEP57,2,Cep57_CLD;Cep57_MT_bd
+CEP57L1,2,Cep57_CLD;Cep57_MT_bd
+CEP70,1,CEP70
+CKAP5,1,XMAP215_CLASP_TOG
+CLASP1,1,XMAP215_CLASP_TOG
+CLIP1,1,CAP-Gly domain
+CLIP2,1,CAP-Gly domain
+CLIP3,1,CAP-Gly domain
+CLIP4,1,CAP-Gly domain
+CYLD,1,CAP-Gly domain
+DCDC2,1,Doublecortin (DCX)
+DCDC2B,1,Doublecortin (DCX)
+DCDC2C,1,Doublecortin (DCX)
+DCLK1,1,Doublecortin (DCX)
+DCLK2,1,Doublecortin (DCX)
+DCTN1,1,CAP-Gly domain
+DCX,1,Doublecortin (DCX)
+DST,1,GAS2
+GAS2,1,GAS2
+GAS2L1,1,GAS2
+GAS2L2,1,GAS2
+GAS2L3,1,GAS2
+HOOK1,1,HOOK
+HOOK2,1,HOOK
+HOOK3,1,HOOK
+IFT74,1,IFT74
+KATNB1,1,Katanin_con80
+KATNBL1,1,Katanin_con80
+KIF11,2,Kinesin motor domain;Microtub_bind
+KIF12,1,Kinesin motor domain
+KIF13A,1,Kinesin motor domain
+KIF13B,2,CAP-Gly domain;Kinesin motor domain
+KIF14,1,Kinesin motor domain
+KIF15,1,Kinesin motor domain
+KIF16B,1,Kinesin motor domain
+KIF17,1,Kinesin motor domain
+KIF18A,1,Kinesin motor domain
+KIF18B,1,Kinesin motor domain
+KIF19,1,Kinesin motor domain
+KIF1A,1,Kinesin motor domain
+KIF1B,1,Kinesin motor domain
+KIF1C,1,Kinesin motor domain
+KIF20A,1,Kinesin motor domain
+KIF20B,1,Kinesin motor domain
+KIF21A,1,Kinesin motor domain
+KIF21B,1,Kinesin motor domain
+KIF22,1,Kinesin motor domain
+KIF23,1,Kinesin motor domain
+KIF24,1,Kinesin motor domain
+KIF25,1,Kinesin motor domain
+KIF26A,1,Kinesin motor domain
+KIF26B,1,Kinesin motor domain
+KIF27,1,Kinesin motor domain
+KIF28P,1,Kinesin motor domain
+KIF2A,1,Kinesin motor domain
+KIF2B,1,Kinesin motor domain
+KIF2C,1,Kinesin motor domain
+KIF3A,1,Kinesin motor domain
+KIF3B,1,Kinesin motor domain
+KIF3C,1,Kinesin motor domain
+KIF4A,1,Kinesin motor domain
+KIF4B,1,Kinesin motor domain
+KIF5A,1,Kinesin motor domain
+KIF5B,1,Kinesin motor domain
+KIF5C,1,Kinesin motor domain
+KIF6,1,Kinesin motor domain
+KIF7,1,Kinesin motor domain
+KIF9,1,Kinesin motor domain
+KIFC1,1,Kinesin motor domain
+KIFC2,1,Kinesin motor domain
+KIFC3,1,Kinesin motor domain
+MACF1,1,GAS2
+MAP10,1,MAP10_C
+MAP2,1,Tubulin-binding
+MAP4,1,Tubulin-binding
+MAP6,1,MAP6
+MAP6D1,1,MAP6
+MAPRE1,1,EB1-like C-terminal motif
+MAPRE2,1,EB1-like C-terminal motif
+MAPRE3,1,EB1-like C-terminal motif
+MAPT,1,Tubulin-binding
+PRC1,1,MAP65/ASE1 (MAP)
+RITA1,1,RITA
+RP1,1,Doublecortin (DCX)
+RP1L1,1,Doublecortin (DCX)
+RP2,1,Tubulin-binding cofactor C (TBCC)
+SAXO1,1,SAXO1-2
+SAXO2,1,SAXO1-2
+SAXO6,1,MDM1
+SKA1,1,SKA1
+SPAG8,1,CFAP143
+STARD9,1,Kinesin motor domain
+STMN1,1,Stathmin
+STMN2,1,Stathmin
+STMN3,1,Stathmin
+STMN4,1,Stathmin
+STMND1,1,Stathmin
+TBCA,1,Tubulin-binding cofactor A (TBCA)
+TBCB,1,CAP-Gly domain
+TBCC,2,TBCC_N;Tubulin-binding cofactor C (TBCC)
+TBCCD1,1,Tubulin-binding cofactor C (TBCC)
+TBCE,1,CAP-Gly domain
+TPPP,1,p25-alpha
+TPPP2,1,p25-alpha
+TPPP3,1,p25-alpha
+TTL,1,Tubulin-tyrosine ligase (TTL)
+TTLL1,1,Tubulin-tyrosine ligase (TTL)
+TTLL10,1,Tubulin-tyrosine ligase (TTL)
+TTLL11,1,Tubulin-tyrosine ligase (TTL)
+TTLL12,1,Tubulin-tyrosine ligase (TTL)
+TTLL13,1,Tubulin-tyrosine ligase (TTL)
+TTLL2,1,Tubulin-tyrosine ligase (TTL)
+TTLL3,1,Tubulin-tyrosine ligase (TTL)
+TTLL4,1,Tubulin-tyrosine ligase (TTL)
+TTLL5,1,Tubulin-tyrosine ligase (TTL)
+TTLL6,1,Tubulin-tyrosine ligase (TTL)
+TTLL7,1,Tubulin-tyrosine ligase (TTL)
+TTLL8,1,Tubulin-tyrosine ligase (TTL)
+TTLL9,1,Tubulin-tyrosine ligase (TTL)
+TUBA1A,2,Tubulin C-terminal domain;Tubulin/FtsZ GTPase domain
+TUBA1B,2,Tubulin C-terminal domain;Tubulin/FtsZ GTPase domain
+TUBA1C,2,Tubulin C-terminal domain;Tubulin/FtsZ GTPase domain
+TUBA3C,2,Tubulin C-terminal domain;Tubulin/FtsZ GTPase domain
+TUBA3D,2,Tubulin C-terminal domain;Tubulin/FtsZ GTPase domain
+TUBA3E,2,Tubulin C-terminal domain;Tubulin/FtsZ GTPase domain
+TUBA4A,2,Tubulin C-terminal domain;Tubulin/FtsZ GTPase domain
+TUBA4B,1,Tubulin/FtsZ GTPase domain
+TUBA8,2,Tubulin C-terminal domain;Tubulin/FtsZ GTPase domain
+TUBAL3,2,Tubulin C-terminal domain;Tubulin/FtsZ GTPase domain
+TUBB,2,Tubulin C-terminal domain;Tubulin/FtsZ GTPase domain
+TUBB1,2,Tubulin C-terminal domain;Tubulin/FtsZ GTPase domain
+TUBB2A,2,Tubulin C-terminal domain;Tubulin/FtsZ GTPase domain
+TUBB2B,2,Tubulin C-terminal domain;Tubulin/FtsZ GTPase domain
+TUBB3,2,Tubulin C-terminal domain;Tubulin/FtsZ GTPase domain
+TUBB4A,2,Tubulin C-terminal domain;Tubulin/FtsZ GTPase domain
+TUBB4B,2,Tubulin C-terminal domain;Tubulin/FtsZ GTPase domain
+TUBB6,2,Tubulin C-terminal domain;Tubulin/FtsZ GTPase domain
+TUBB8,2,Tubulin C-terminal domain;Tubulin/FtsZ GTPase domain
+TUBB8B,2,Tubulin C-terminal domain;Tubulin/FtsZ GTPase domain
+TUBD1,1,Tubulin/FtsZ GTPase domain
+TUBE1,2,Tubulin C-terminal domain;Tubulin/FtsZ GTPase domain
+TUBG1,2,Tubulin C-terminal domain;Tubulin/FtsZ GTPase domain
+TUBG2,2,Tubulin C-terminal domain;Tubulin/FtsZ GTPase domain
+TUBGCP2,1,GCP_C_terminal
+TUBGCP3,1,GCP_C_terminal
+TUBGCP4,1,GCP_C_terminal
+TUBGCP5,1,GCP_C_terminal
+TUBGCP6,1,GCP_C_terminal

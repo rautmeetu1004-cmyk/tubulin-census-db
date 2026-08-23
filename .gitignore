@@ -1,0 +1,5 @@
+.DS_Store
+__pycache__/
+*.pyc
+database/*.archive
+.pkg_meta.json
