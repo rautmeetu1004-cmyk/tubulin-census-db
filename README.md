@@ -108,3 +108,18 @@ databases (BioGRID, IntAct, BioPlex, HINT, HuRI, STRING, HIPPIE, UniProt,
 InterPro, GO, Reactome, KEGG, OMIM, Open Targets, ClinVar, cBioPortal, GTEx,
 DepMap, GDSC, hu.MAP, EBI Complex Portal, PDB, OrthoDB, PubTator3), each under
 its own terms.
+
+## Reference verification
+
+The 44 manuscript references were checked against the CrossRef public API
+(see `REFERENCES_VERIFICATION.md`): **36 confirmed, 6 likely** (correct paper,
+matcher picked a different edition/year), **2 to check by hand**:
+- **Ref 1** (Nair et al., *Biomolecules* 2026): the DOI at 16(1):81 resolves to a
+  different title on CrossRef — verify the title/DOI.
+- **Ref 44** (RBPbase): CrossRef matched the 2014 Gerstberger RNA-binding-protein
+  census review, not the RBPbase resource — decide which to cite.
+
+Previously-uncertain references are now resolved with DOIs: **41** Iyer et al.
+2023 = *A census of actin-associated proteins in humans* (Front Cell Dev Biol,
+`10.3389/fcell.2023.1168050`); **43** ENPD = `10.1093/nar/gky1112`; **42** RBP2GO
+= `10.1093/nar/gkaa1040`.
