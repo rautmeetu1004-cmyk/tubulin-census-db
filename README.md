@@ -123,3 +123,27 @@ Previously-uncertain references are now resolved with DOIs: **41** Iyer et al.
 2023 = *A census of actin-associated proteins in humans* (Front Cell Dev Biol,
 `10.3389/fcell.2023.1168050`); **43** ENPD = `10.1093/nar/gky1112`; **42** RBP2GO
 = `10.1093/nar/gkaa1040`.
+
+## Public release (2026-10-21)
+
+| | |
+|---|---|
+| Repository | https://github.com/rautmeetu1004-cmyk/tubulin-census-db |
+| Release | v1.0.0 — https://github.com/rautmeetu1004-cmyk/tubulin-census-db/releases/tag/v1.0.0 |
+| Live explorer | https://tubulin-census-site.vercel.app |
+| DOI | pending — see below |
+
+### Minting the DOI
+
+Zenodo archives a GitHub repository only from releases created **after** the
+repository is switched on there, so v1.0.0 will not be picked up retroactively:
+
+1. Sign in to https://zenodo.org with GitHub.
+2. Open https://zenodo.org/account/settings/github/ and toggle
+   `rautmeetu1004-cmyk/tubulin-census-db` on.
+3. Cut a new release (`gh release create v1.0.1 --title ... --notes ...`).
+   Zenodo archives that one and mints the DOI.
+4. Put the DOI into the manuscript's Data availability statement, replacing the
+   remaining `{{DOI}}` placeholders, and delete the editorial note.
+
+Step 1 and 2 need an interactive OAuth sign-in, so they cannot be scripted.
